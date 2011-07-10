@@ -1,4 +1,5 @@
 #import <UIKit/UIKit.h>
+#import <UIKit/UIKit2.h>
 #import <MediaPlayer/MediaPlayer.h>
 #import <MediaPlayer/MPMusicPlayerController.h>
 #import <MediaPlayer/MPMediaItem.h>
